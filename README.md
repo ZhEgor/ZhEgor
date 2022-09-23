@@ -1,16 +1,19 @@
-### Hi there 👋
+# 📊GitHub Stats :
 
-<!--
-**ZhEgor/ZhEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=ZhEgor&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZhEgor&theme=dracula&hide_border=true)](https://github.com/ZhEgor?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Code's github activity graph](https://github.com/CodeWhiteWeb/CodeWhiteWeb/raw/output/github-contribution-grid-snake.svg)](https://skyline.github.com/ZhEgor)
+
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+# Funny Riddles , Test your brain 🤓
+
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+
+check out the repo [here](https://github.com/CodeWhiteWeb/github-readme-riddle)
+
+---
